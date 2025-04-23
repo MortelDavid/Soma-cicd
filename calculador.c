@@ -1,6 +1,6 @@
 #include <assert.h>
 #include <stdio.h>
-#include "calculador.h"
+
 
 
 void testar() {
