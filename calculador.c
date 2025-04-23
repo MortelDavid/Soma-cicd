@@ -3,7 +3,7 @@
 #include "calculador.h"
 
 
-int main() {
+void testar() {
   assert(somar(2, 3) ==5);
   assert(somar(-1, 1) == 0);
   assert(soma(0, 0) == 0);
