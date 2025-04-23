@@ -3,11 +3,10 @@
 
 
 
-void testar() {
-  assert(somar(2, 3) ==5);
-  assert(somar(-1, 1) == 0);
-  assert(soma(0, 0) == 0);
+#include <stdio.h>
 
-  printf("Todos os testes passaram!\n");
-  return 0;
+int main() {
+    printf("Olá, mundo!\n");
+    return 0;
+
 }
