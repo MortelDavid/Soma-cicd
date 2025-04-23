@@ -11,5 +11,5 @@ int main() {
   soma = num1 + num2;
 
   printf(" A soma de %d e %d é: %d\n",num1, num2, soma);
-  return 0
+  return 0;
 }
