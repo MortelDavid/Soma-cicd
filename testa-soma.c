@@ -1,6 +1,6 @@
 #include <assert.h>
 #include <stdio.h>
-#include  "soma.h"
+
 
 int main() {
   assert(somar(2, 3) ==5);
